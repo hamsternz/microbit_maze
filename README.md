@@ -5,7 +5,7 @@ To play:
 Once uploaded, tilt the micro:bit to move around the maze. 
 Attempt to find the bright dot to finish the maze.
 
-You can change the maze if you like
+You can change the maze if you like. Change the text in the "maze" variable as follows:
 - '#' is a wall
 - 'S' is the starting point
 - 'G' is the goal (finish) point
